@@ -1,0 +1,11 @@
+(base) abourmatte@b113-11:~/prive/s2/git/tp1$ git status
+Sur la branche develop
+
+Aucun commit
+
+Fichiers non suivis:
+  (utilisez "git add <fichier>..." pour inclure dans ce qui sera validé)
+	README.md
+
+aucune modification ajoutée à la validation mais des fichiers non suivis sont présents (utilisez "git add" pour les suivre)
+
